@@ -25,24 +25,20 @@ https://github.com/user-attachments/assets/ab57bbb4-df6a-4f8b-83df-0442ac57966f
 
 此外，本專案是基於**賽博朋克**的世界觀(Cyberpunk) 進行製作，**遊戲背景圖及敵人圖片皆利用Gemini生成圖片功能製作而成**，無版權問題
 
-* **背景圖**
+* **背景圖(4800 x 896)**
   <img width="9072" height="1792" alt="cyberpunk" src="https://github.com/user-attachments/assets/b43a39c0-8f75-41c0-a1cc-ab5124c4375e" />
 
-* **敵人**
+* **敵人(337 x 770)**
 
   
   <img width="337" height="770" alt="maelstorm2" src="https://github.com/user-attachments/assets/c3cf3402-9dbc-4c0a-b427-292ce9d91e14" />
 
 ---
 
-## 📦 如何下載與執行
-執行 `CyberStrike.exe` 即可開始遊戲。
-
 ### 執行需求
 * Windows 10/11 操作系統
 * 標準 USB 攝像頭 (Webcam)
-* 無需安裝 Python 環境（已打包）
-
+  
 ---
 
 ## 操作說明
