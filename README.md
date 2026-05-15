@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/ab57bbb4-df6a-4f8b-83df-0442ac57966f
 
 本專案之核心互動技術與 AI 串接框架，由本人過去開發的多個開源專案技術遷移並優化而來。若您對底層邏輯感興趣，可參考以下相關開源模組：
 
-* **[Eye-Tracking]()**: 負責基礎姿態映射與座標系轉換。
+* **[Eye-Tracking](https://github.com/Bjorn455215/Python-Eye-Tracking)**: 負責基礎姿態映射與座標系轉換。
 * **[Hand-Gesture]()**: 包含本專案所使用的捏合 (Pinch) 偵測演算法原型。
 
 ---
