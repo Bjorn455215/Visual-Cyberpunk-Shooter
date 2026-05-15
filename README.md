@@ -21,12 +21,16 @@ https://github.com/user-attachments/assets/ab57bbb4-df6a-4f8b-83df-0442ac57966f
 * **[Eye-Tracking]()**: 負責基礎姿態映射與座標系轉換。
 * **[Hand-Gesture]()**: 包含本專案所使用的捏合 (Pinch) 偵測演算法原型。
 
+---
+
 此外，本專案是基於**賽博朋克**的世界觀(Cyberpunk) 進行製作，**遊戲背景圖及敵人圖片皆利用Gemini生成圖片功能製作而成**，無版權問題
 
 * **背景圖**
   <img width="9072" height="1792" alt="cyberpunk" src="https://github.com/user-attachments/assets/b43a39c0-8f75-41c0-a1cc-ab5124c4375e" />
 
 * **敵人**
+
+  
   <img width="337" height="770" alt="maelstorm2" src="https://github.com/user-attachments/assets/c3cf3402-9dbc-4c0a-b427-292ce9d91e14" />
 
 ---
